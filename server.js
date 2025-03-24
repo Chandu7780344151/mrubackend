@@ -24,8 +24,8 @@ app.use(
       "http://localhost:5174",
       "http://localhost:5176",
 
-      "https://digital-mru-frontend.vercel.app",
-      "https://digital-mru-admin.vercel.app",
+      "https://digitalmru.vercel.app",
+      "https://digitalmruadmin.vercel.app",
     ],
     methods: ["POST", "GET"],
     credentials:true
