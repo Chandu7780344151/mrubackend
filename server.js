@@ -23,7 +23,7 @@ app.use(
       "http://localhost:5175",
       "http://localhost:5174",
       "http://localhost:5176",
-
+      "https://mruadmit.vercel.app",
       "https://digitalmru.vercel.app",
       "https://digitalmruadmin.vercel.app",
     ],
